@@ -15,6 +15,11 @@ path = 'contracts/SupplyChainContract.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.counterfeit-reporter]
+path = 'contracts/counterfeit-reporter.clar'
+clarity_version = 3
+epoch = 3.0
+
 [contracts.product-contract]
 path = 'contracts/product-contract.clar'
 clarity_version = 2
